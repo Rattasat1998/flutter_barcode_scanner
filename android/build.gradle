@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 34
-    namespace flutter_barcode_scanner
+    
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 34
